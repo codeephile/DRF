@@ -1,0 +1,2 @@
+including about django restframework in settings.py are some kinds of default setting for 
+django restframework JSON token obtain and get token 
